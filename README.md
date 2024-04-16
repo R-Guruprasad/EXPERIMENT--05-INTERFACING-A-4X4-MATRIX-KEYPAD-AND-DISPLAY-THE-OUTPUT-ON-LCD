@@ -29,7 +29,6 @@ Pin Number	Pin Name	Description
 4×4 Matrix Keypad Module Hardware Overview
 These Keypad modules are made of thin, flexible membrane material. The 4 x4 keypad module consists of 16 keys, these Keys are organized in a matrix of rows and columns. All these switches are connected to each other with a conductive trace. Normally there is no connection between rows and columns. When we will press a key, then a row and a column make contact.
 
-## Procedure : 
  ## LCD 16X2 
    16×2 LCD is named so because; it has 16 Columns and 2 Rows. There are a lot of combinations available like,
    8×1, 8×2, 10×2, 16×1, etc. But the most used one is the 16*2 LCD, hence we are using it here.
